@@ -1,0 +1,23 @@
+{
+  "name": "soundCloud",
+  "version": "1.0.0",
+  "description": "soundCloud WiFi interface for configuring and controlling the soundClouds WiFi connection, LED modes and colors.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.com/user/jsammarco/soundCloud"
+  },
+  "keywords": [
+    "sound",
+    "cloud"
+  ],
+  "author": "Joseph Sammarco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
