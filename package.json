@@ -18,6 +18,9 @@
   "author": "Joseph Sammarco",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.3",
+    "font-awesome": "^4.4.0",
+    "startbootstrap-sb-admin-2": "^1.0.7"
   }
 }
